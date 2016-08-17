@@ -1,0 +1,9 @@
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\bin\Debug\Test.Util.Common.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\bin\Debug\Test.Util.Common.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\bin\Debug\Newtonsoft.Json.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\bin\Debug\Newtonsoft.Json.xml
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\obj\Debug\Test.Util.Common.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\obj\Debug\Test.Util.Common.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\obj\Debug\Test.Util.Common.csprojResolveAssemblyReference.cache
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\bin\Debug\Autofac.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Util\Test.Common\bin\Debug\Autofac.xml

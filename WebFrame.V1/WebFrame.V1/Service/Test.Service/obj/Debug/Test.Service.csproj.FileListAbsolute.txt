@@ -1,0 +1,16 @@
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Service.dll.config
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Service.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Service.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\EntityFramework.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\EntityFramework.xml
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\obj\Debug\Test.Service.csprojResolveAssemblyReference.cache
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\obj\Debug\Test.Service.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\obj\Debug\Test.Service.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Data.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Data.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.IService.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Model.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.Model.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.Service\bin\Debug\Test.IService.pdb

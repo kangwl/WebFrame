@@ -1,0 +1,12 @@
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\Test.DB.dll.config
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\Test.DB.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\Test.DB.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\EntityFramework.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\EntityFramework.xml
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\obj\Debug\Test.DB.csprojResolveAssemblyReference.cache
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\obj\Debug\Test.DB.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\obj\Debug\Test.DB.pdb
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\MySql.Data.dll
+E:\MyGit\WebFrame.V1\WebFrame.V1\DB\Test.DB\bin\Debug\MySql.Data.Entity.EF6.dll
