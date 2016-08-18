@@ -1,4 +1,0 @@
-E:\MyGit\WebFrame.V1\WebFrame.V1\Model\Test.Model\bin\Debug\Test.Model.dll
-E:\MyGit\WebFrame.V1\WebFrame.V1\Model\Test.Model\bin\Debug\Test.Model.pdb
-E:\MyGit\WebFrame.V1\WebFrame.V1\Model\Test.Model\obj\Debug\Test.Model.dll
-E:\MyGit\WebFrame.V1\WebFrame.V1\Model\Test.Model\obj\Debug\Test.Model.pdb

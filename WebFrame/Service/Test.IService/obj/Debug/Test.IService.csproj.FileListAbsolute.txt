@@ -1,6 +1,0 @@
-E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.IService\bin\Debug\Test.IService.dll
-E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.IService\bin\Debug\Test.IService.pdb
-E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.IService\bin\Debug\Test.Model.dll
-E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.IService\bin\Debug\Test.Model.pdb
-E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.IService\obj\Debug\Test.IService.dll
-E:\MyGit\WebFrame.V1\WebFrame.V1\Service\Test.IService\obj\Debug\Test.IService.pdb
